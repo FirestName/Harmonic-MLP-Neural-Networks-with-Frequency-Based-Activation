@@ -2,19 +2,25 @@
 A novel approach to neural network architecture that incorporates harmonic frequencies into activation functions, inspired by Fourier analysis principles.
 
 
-Repository Description
+# Repository Description
+
 An experimental implementation of a Multi-Layer Perceptron using frequency-modulated activation functions, where each neuron operates at a different harmonic frequency. This approach draws parallels between neural network components and Fourier series, treating weights as amplitudes and introducing frequency as a structural parameter.
-README.md
-Harmonic MLP
+
+#README.md
+
+# Harmonic MLP
+
 This repository presents an experimental neural network architecture that incorporates harmonic frequencies into its activation functions. The implementation treats neural network components through the lens of Fourier analysis, where activation functions act as wave components with different frequencies following a harmonic series.
-Key Concepts
+
+# Key Concepts
 
 Fourier-Inspired Architecture: Each neuron in a layer operates at a different frequency following the harmonic series
 Frequency-Scaled Initialization: Weight initialization scaled according to the neuron's frequency
 Frequency-Aware Optimization: Gradient updates are scaled based on each neuron's frequency
 Smooth Activation: Uses a modified activation function that combines sinusoidal behavior with residual connections
 
-Architecture Details
+# Architecture Details
+
 The network architecture implements:
 
 Frequency-based activation functions where each neuron operates at a harmonic of the base frequency
@@ -47,7 +53,7 @@ Output layer: 10 neurons
 Batch normalization after each hidden layer
 Dropout (0.2) for regularization
 
-Performance
+# Performance
 On the MNIST dataset, the model typically achieves:
 
 
@@ -58,7 +64,7 @@ On the MNIST dataset, the model typically achieves:
 Fast initial convergence
 Stable training behavior
 
-Mathematical Basis
+# Mathematical Basis
 The implementation draws parallels between neural networks and Fourier analysis:
 
 Weights ≈ Amplitude
@@ -66,7 +72,7 @@ Bias ≈ Phase
 Activation functions ≈ Wave components
 Each neuron operates at a different harmonic frequency
 
-Contributing
+# Contributing
 Contributions are welcome! Some interesting areas to explore:
 
 Different frequency distributions
@@ -74,7 +80,7 @@ Alternative activation functions
 Applications to other datasets
 Performance optimizations
 
-Citation
+# Citation
 If you use this code in your research, please cite:
 bibtexCopy@software{harmonic_mlp,
   title = {Harmonic MLP: Neural Networks with Frequency-Based Activation},
@@ -82,10 +88,10 @@ bibtexCopy@software{harmonic_mlp,
   author = {[Your Name]},
   url = {[Repository URL]}
 }
-License
+# License
 [Choose appropriate license - MIT suggested for open collaboration]
 
-Implementation Details
+# Implementation Details
 The key components of the implementation are:
 HarmonicLayer
 pythonCopyclass HarmonicLayer(nn.Module):
