@@ -117,6 +117,9 @@ See the source code for complete implementation details.
 # Ongoing
 
 - lr sweep
+<img width="642" alt="Screenshot 2024-11-05 at 15 50 12" src="https://github.com/user-attachments/assets/6c35742b-95fe-4dbf-b9f7-dfb696d524e9">
+
+  
 
 # Contact
 https://soundcloud.com/vn820hbn20nb
