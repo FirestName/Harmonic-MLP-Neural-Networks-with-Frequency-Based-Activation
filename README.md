@@ -60,6 +60,9 @@ On the MNIST dataset, the model typically achieves:
 
 95% test accuracy within first few epochs
 
+<img width="708" alt="Screenshot 2024-11-05 at 14 48 33" src="https://github.com/user-attachments/assets/c5f82dc8-73f0-4c41-b6e5-2c6aefde088a">
+
+
 
 Fast initial convergence
 Stable training behavior
