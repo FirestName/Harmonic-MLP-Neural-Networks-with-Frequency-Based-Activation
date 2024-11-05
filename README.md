@@ -124,6 +124,8 @@ See the source code for complete implementation details.
 
 - [32, 16]
 <img width="653" alt="Screenshot 2024-11-05 at 18 48 27" src="https://github.com/user-attachments/assets/26ebdf2b-938e-4170-8b56-e1398c1c0932">
+<img width="636" alt="Screenshot 2024-11-05 at 19 18 49" src="https://github.com/user-attachments/assets/a066ea3d-4f27-4ee5-8b40-bb24761d5419">
+
 
 
 
