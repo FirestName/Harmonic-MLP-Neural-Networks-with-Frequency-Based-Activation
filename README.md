@@ -122,6 +122,10 @@ See the source code for complete implementation details.
 With batch_size = 64
 <img width="637" alt="Screenshot 2024-11-05 at 18 28 09" src="https://github.com/user-attachments/assets/2ae9cb4e-804d-4db7-9a12-6aae1458147e">
 
+[32, 16]
+<img width="653" alt="Screenshot 2024-11-05 at 18 48 27" src="https://github.com/user-attachments/assets/26ebdf2b-938e-4170-8b56-e1398c1c0932">
+
+
 
 
 # Contact
