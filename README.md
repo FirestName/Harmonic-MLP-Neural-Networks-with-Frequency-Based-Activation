@@ -114,5 +114,9 @@ pythonCopyclass FrequencyAwareOptimizer:
 
 See the source code for complete implementation details.
 
+# Ongoing
+
+- lr sweep
+
 # Contact
 https://soundcloud.com/vn820hbn20nb
