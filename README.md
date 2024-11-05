@@ -92,14 +92,24 @@ bibtexCopy@software{harmonic_mlp,
 [Choose appropriate license - MIT suggested for open collaboration]
 
 # Implementation Details
+
 The key components of the implementation are:
+
 HarmonicLayer
+
 pythonCopyclass HarmonicLayer(nn.Module):
     def __init__(self, input_size, output_size, base_freq=1.0, max_freq=10.0):
+        
         # Layer implementation with frequency-based activation
+
 FrequencyAwareOptimizer
+
 pythonCopyclass FrequencyAwareOptimizer:
     def __init__(self, optimizer, model, freq_scale_factor=0.1):
+        
         # Optimizer that scales updates based on frequencies
+
 See the source code for complete implementation details.
-Contact
+
+# Contact
+https://soundcloud.com/vn820hbn20nb
